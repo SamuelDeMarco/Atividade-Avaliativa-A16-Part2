@@ -1,0 +1,1 @@
+int carneirassos(int nEst);
